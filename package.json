@@ -1,0 +1,23 @@
+{
+  "name": "autoclicker",
+  "version": "1.0.0",
+  "description": "probando codigo de robotjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "app.js"
+  },
+  "keywords": [
+    "robotjs"
+  ],
+  "author": "davferod",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

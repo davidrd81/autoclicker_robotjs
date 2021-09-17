@@ -1,0 +1,12 @@
+Dependencias producción
+express: "4.17.1"
+robotjs: "0.6.0"
+
+ubicarse en el fichero AUTOCLICKER desde la linea de comando digitar < npm ci >
+
+para ejecutar desde la terminal es necesario subir el servidor de express con el comando 
+< npm run start >
+
+Con este sencillo proyecto se puede aprender de lo básico en nodejs y uno de los módulos mas usados como express, incursionar en la librería de robotjs y las bases para una api rest.
+Del lado del frontend se adquiere conocimiento en las tecnologías básicas para desarrollo web
+HTML – CSS - JAVASCRIPT
